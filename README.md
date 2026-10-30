@@ -1,46 +1,130 @@
-<h1 align="center">Hey, I Am Developer</h1>
+# 👋 Hi, I'm Ramiz Saiyed!
 
-###
+### 💻 IT Engineering Student | Full-Stack Developer | AI & Cybersecurity Enthusiast
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFwY2VyMWtsaXU5ZzU4d2h2ODBsdGI5c2gxaHdiOHljb3FtcXBseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jO3guf6Wf47T2/giphy.gif"  />
+Welcome to my GitHub! I'm an IT Engineering student passionate about building practical software solutions, exploring emerging technologies, and continuously improving my development skills.
 
-###
+I believe the best way to learn programming is by building real projects, solving problems, experimenting with new technologies, and learning from mistakes.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-</div>
+🚀 **My goal is to turn ideas into useful applications while documenting my growth as a developer.**
 
-###
+---
 
-<br clear="both">
+## 🧑‍💻 About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ramizalisaiyed-gp-kheda-it-dte-b288a0375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/saiyedramiz_?igsh=aXpzdXlzMHAzeWRr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+- 🎓 Pursuing a Diploma in Information Technology Engineering.
+- 💻 Interested in Full-Stack Development, Artificial Intelligence, and Cybersecurity.
+- 🛠️ Building projects to strengthen my practical programming skills.
+- 🧠 Learning by experimenting, debugging, and exploring new technologies.
+- 🌱 Continuously improving my knowledge of software development and system design.
+- 🤝 Open to internship opportunities, collaborations, and learning from other developers.
 
-###
+---
 
-<br clear="both">
+## 🚀 Featured Projects
 
-<p align="left"></p>
+### 📚 1. GTU Study Guider
+**An AI-powered study platform designed to help GTU students prepare more effectively.**
 
-###
+GTU Study Guider aims to make academic preparation more accessible through digital study tools and AI-powered learning features.
 
-<br clear="both">
+**Key Technologies:** React, Vite, Tailwind CSS, Python, FastAPI, SQLite
 
-<div align="center">
-  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNqNXVqODA3OGRuM2ZmY2RqdXRxMm83cDI4ZjllOGxwOWJkdzNlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"  />
-</div>
+🔍 Explore my repositories to discover the implementation, features, and ongoing development of this project.
 
-###
+### 🛡️ 2. Phishing URL Detection
+**A cybersecurity project focused on identifying potentially suspicious URLs.**
+
+This project explores URL risk assessment to help users recognize potentially dangerous links and make safer browsing decisions.
+
+**Key Technologies:** Python, FastAPI, SQLite
+
+🔍 Explore the repository to learn how the application evaluates URLs and presents risk assessments.
+
+### 🥗 3. Child Nutrition Care App
+**A mobile application concept focused on child nutrition and personalized complementary feeding for children aged 0–6 years.**
+
+The project explores how technology can support caregivers with child nutrition information and personalized feeding guidance.
+
+**Technology Direction:** Flutter, Python, FastAPI, and database integration.
+
+🔍 Visit my repositories to explore the project, its development approach, and the technologies behind the solution.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- React
+- FastAPI
+- Tailwind CSS
+- Flutter
+- OpenCV
+- MediaPipe
+
+### Databases & Tools
+- SQLite
+- Git & GitHub
+- Docker
+- VS Code
+
+### Areas of Interest
+- Full-Stack Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Data Structures & Algorithms
+- AI-Powered Applications
+
+*My technology stack continues to evolve as I work on new projects and explore different approaches to software development.*
+
+---
+
+## 📈 My Development Journey
+
+My GitHub is more than a collection of projects. It represents my journey of learning, experimenting, solving problems, and developing as an engineer.
+
+Every repository reflects a step forward in my understanding of programming and technology. Some projects demonstrate what I've learned, while others challenge me to explore unfamiliar concepts and improve my skills.
+
+I'm focused on:
+- Building practical applications rather than learning only through theory.
+- Understanding how frontend, backend, APIs, and databases work together.
+- Improving code quality, debugging, and problem-solving skills.
+- Exploring new technologies and applying them to real-world problems.
+- Learning from every project, including the challenges and mistakes.
+
+**I'm still learning, still building, and always looking for the next challenge.**
+
+---
+
+## 🌐 Explore My GitHub
+
+I invite you to explore my repositories and follow my development journey.
+
+Whether you're a recruiter, developer, student, or technology enthusiast, feel free to check out my projects, explore the code, and see how my skills evolve over time.
+
+⭐ If you find something interesting, consider starring the repository.
+
+💬 Feedback, suggestions, and collaboration opportunities are always welcome!
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, learning from experienced professionals, and exploring internship opportunities in software development and related fields.
+
+- **GitHub:** [Explore My Repositories](https://github.com/ramizali11)
+- **LinkedIn:** [Add Your LinkedIn Profile]
+- **Portfolio:** [Add Your Portfolio Link]
+
+---
+
+### 💡 *Learn. Build. Break. Debug. Improve. Repeat.*
+
+Thanks for visiting my GitHub! 🚀
