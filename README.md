@@ -120,8 +120,8 @@ Whether you're a recruiter, developer, student, or technology enthusiast, feel f
 I'm interested in connecting with developers, learning from experienced professionals, and exploring internship opportunities in software development and related fields.
 
 - **GitHub:** [Explore My Repositories](https://github.com/ramizali11)
-- **LinkedIn:** [Add Your LinkedIn Profile]
-- **Portfolio:** [Add Your Portfolio Link]
+- **LinkedIn:** https://www.linkedin.com/in/saiyed-ramizali-b288a0375/
+
 
 ---
 
